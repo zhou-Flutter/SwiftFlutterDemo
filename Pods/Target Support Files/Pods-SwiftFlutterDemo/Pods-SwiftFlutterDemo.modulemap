@@ -1,0 +1,6 @@
+framework module Pods_SwiftFlutterDemo {
+  umbrella header "Pods-SwiftFlutterDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
